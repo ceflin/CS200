@@ -1,0 +1,3 @@
+﻿  GradeCalculator.cpp
+c:\users\owner\desktop\cs200\gradecalculator\gradecalculator\gradecalculator.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  GradeCalculator.vcxproj -> C:\Users\Owner\Desktop\CS200\GradeCalculator\Debug\GradeCalculator.exe

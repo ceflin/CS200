@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\svc-student\desktop\cs200\inclass190221\inclass190221\source.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\svc-student\desktop\cs200\inclass190221\inclass190221\source.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  InClass190221.vcxproj -> C:\Users\svc-student\Desktop\CS200\InClass190221\Debug\InClass190221.exe

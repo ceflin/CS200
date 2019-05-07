@@ -1,0 +1,8 @@
+﻿  DigitalTime.cpp
+c:\users\svc-student\desktop\inclass190507\inclass190507\digitaltime.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\svc-student\desktop\inclass190507\inclass190507\digitaltime.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Source.cpp
+c:\users\svc-student\desktop\inclass190507\inclass190507\source.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\svc-student\desktop\inclass190507\inclass190507\digitaltime.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  InClass190507.vcxproj -> C:\Users\svc-student\Desktop\InClass190507\Debug\InClass190507.exe
